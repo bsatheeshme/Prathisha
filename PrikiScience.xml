@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <QRow>
+    <Qid>1</Qid>
+    <QDesc>High speed wind is called _________________</QDesc>
+    <QOption1>Strom</QOption1>
+	<QOption2>Breeze</QOption2>
+	<QOption3>Wind</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>1</QAns>
+  </QRow>
+   <QRow>
+    <Qid>2</Qid>
+    <QDesc>At noon, the sunrays are _________________</QDesc>
+    <QOption1>Direct</QOption1>
+	<QOption2>Slanting</QOption2>
+	<QOption3>Both of these</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>1</QAns>
+  </QRow>
+  <QRow>
+    <Qid>3</Qid>
+    <QDesc>In which season, Day and Night are hot?</QDesc>
+    <QOption1>Summer</QOption1>
+	<QOption2>Winter</QOption2>
+	<QOption3>Monsoon</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>1</QAns>
+  </QRow>
+  <QRow>
+    <Qid>4</Qid>
+    <QDesc>We like to enjoy in the sun, during _________________</QDesc>
+    <QOption1>Summer</QOption1>
+	<QOption2>Winter</QOption2>
+	<QOption3>Autumn</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>2</QAns>
+  </QRow>
+      <QRow>
+    <Qid>5</Qid>
+    <QDesc>Soft and gentle wind is called _________________</QDesc>
+    <QOption1>Storm</QOption1>
+	<QOption2>Breeze</QOption2>
+	<QOption3>Cloud</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>2</QAns>
+  </QRow>
+    <QRow>
+    <Qid>6</Qid>
+    <QDesc>Which one is not a month of winter season.</QDesc>
+    <QOption1>December</QOption1>
+	<QOption2>June</QOption2>
+	<QOption3>January</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>2</QAns>
+  </QRow>
+      <QRow>
+    <Qid>7</Qid>
+    <QDesc>Rain bearing wind is called _________________</QDesc>
+    <QOption1>Rainbow</QOption1>
+	<QOption2>Dew</QOption2>
+	<QOption3>Monsoon</QOption3>
+	<QOption4>*****</QOption4>
+	<QAns>3</QAns>
+  </QRow>
+  <QRow>
+    <Qid>8</Qid>
+    <QDesc>Long ago, people used to measure length with their ______________</QDesc>
+    <QOption1>Body parts</QOption1>
+	<QOption2>Physical balance</QOption2>
+	<QOption3>Clock</QOption3>
+	<QOption4>Scale</QOption4>
+	<QAns>1</QAns>
+  </QRow>
+  <QRow>
+    <Qid>9</Qid>
+    <QDesc>Standard unit of length is _________________</QDesc>
+    <QOption1>Gram</QOption1>
+	<QOption2>seconds</QOption2>
+	<QOption3>Litre</QOption3>
+	<QOption4>Metre</QOption4>
+	<QAns>4</QAns>
+  </QRow>
+  <QRow>
+    <Qid>10</Qid>
+    <QDesc>Mass is measured in _________________</QDesc>
+    <QOption1>Kilometre</QOption1>
+	<QOption2>Kilogram</QOption2>
+	<QOption3>Litre</QOption3>
+	<QOption4>Seconds</QOption4>
+	<QAns>2</QAns>
+  </QRow>
+  <QRow>
+    <Qid>11</Qid>
+    <QDesc>1 Litre = _________________</QDesc>
+    <QOption1>100 ml</QOption1>
+	<QOption2>1000 ml</QOption2>
+	<QOption3>10 ml</QOption3>
+	<QOption4>1 ml</QOption4>
+	<QAns>2</QAns>
+  </QRow>
+  <QRow>
+    <Qid>12</Qid>
+    <QDesc>Very long distances are measured in _________________</QDesc>
+    <QOption1>Kilogram</QOption1>
+	<QOption2>Kilometre</QOption2>
+	<QOption3>Litre</QOption3>
+	<QOption4>Seconds</QOption4>
+	<QAns>2</QAns>
+  </QRow>
+  <QRow>
+    <Qid>13</Qid>
+    <QDesc>A physical balance measures _________________</QDesc>
+    <QOption1>Mass</QOption1>
+	<QOption2>Length</QOption2>
+	<QOption3>capacity</QOption3>
+	<QOption4>time</QOption4>
+	<QAns>1</QAns>
+  </QRow>
+  <QRow>
+    <Qid>14</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+  <QRow>
+    <Qid>1000</Qid>
+    <QDesc></QDesc>
+    <QOption1></QOption1>
+	<QOption2></QOption2>
+	<QOption3></QOption3>
+	<QOption4></QOption4>
+	<QAns></QAns>
+  </QRow>
+</Table>
